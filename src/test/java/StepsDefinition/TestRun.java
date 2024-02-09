@@ -11,6 +11,7 @@ plugin = {"pretty","html:target/HtmlReport/report.html",
 		"junit:target/JUnitReport/report.xml"},
 tags="@smoketest")
 
+	
 public class TestRun 
 {
 	
